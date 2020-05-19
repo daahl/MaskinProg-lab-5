@@ -1,0 +1,46 @@
+Idéer:
+-x top down platfrom (Plattform rör sig uppåt snubbe neråt, nå botten)
+-x Hitta ut ur en labyrint
+-x snake variant
+-x packman variant
+-x svårt med tidspressant?
+- Kul med miljö, inte en statisk miljö
+- Lätt att modulasiera med ny miljö
+- Zelda/pokémon tänk
+- Pussel
+- 
+
+- Första val
+	-  Adventure game/ olika rum/ pusselspel
+	- Steg 0.0, Vad ska spelet heta? (The binding of MoP)
+	- Steg 0, Bygg bibliotek/h-filer
+	- Steg 1, bygg ett rum
+	- Steg 2, skapa en gubbe som kan röra på sig.
+	- Steg 3, Använd text dispaly vid triggers.
+	- Steg 4, Interaktiva obj
+	- Steg 5, Addera rum
+	- Steg 6, Uprepa 3-5
+	- Steg bonus, Fixa en meny
+	- Steg bonus, Ingame meny
+	- Steg bonus, Animering
+	- 
+	
+
+Viktigt att tänka på:
+- Tänk på struktur
+- Kommentera
+- Gör en bidragsrapport
+- Tänk moduliserat
+- UML dokument?
+
+
+
+H filer:
+- Draw
+- Delay
+- Objekt
+- Keypad
+- Standard bibliotek
+- 
+
+
